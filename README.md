@@ -49,7 +49,7 @@ We create tools, platforms, and open-source projects that empower developers and
 | API Frameworks            | Backend architecture templates            | Node + Python  |
 
 ---
-
+<!-- 
 ## 📊 Organization Stats
 
 <p align="center">
@@ -71,7 +71,7 @@ We create tools, platforms, and open-source projects that empower developers and
 </p>
 
 ---
-
+-->
 ## 🤝 Contributing
 
 We welcome developers who want to collaborate and contribute.
